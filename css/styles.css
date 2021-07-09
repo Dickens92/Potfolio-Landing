@@ -20,7 +20,10 @@ img {
     
 }
 body {
-    background-color: lightgrey;
+    background-color: lightyellow
+}
+h1 {
+    color: goldenrod;
 }
 
 
