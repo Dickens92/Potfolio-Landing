@@ -18,7 +18,9 @@ img {
     margin: 16px;
     float: right;
     
-    
+}
+body {
+    background-color: lightgrey;
 }
 
 
