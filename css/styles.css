@@ -10,8 +10,15 @@ img {
 .sidebar {
     width: 25%;
     float: right;
-    background-color:green;
+    background-color: skyblue;
 }
+.box {
+    border: 2px hotpink; 
+    padding: 8px;
+    margin: 16px;
+    
+}
+
 
 
 
