@@ -3,6 +3,11 @@ img {
     height: 13cm;
     width: 11cm;
 }
+.sidebar {
+    width: 30%;
+    float: right;
+    background-color: grey;
+}
 
 
 
