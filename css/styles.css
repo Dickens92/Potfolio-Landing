@@ -3,6 +3,9 @@ img {
     height: 13cm;
     width: 11cm;
 }
+header img {
+    height: 80px;
+}
 .column {
     width: 331px;
     float: left;
@@ -10,7 +13,7 @@ img {
 .sidebar {
     width: 25%;
     float: right;
-    background-color: skyblue;
+    background-color: seashell;
 }
 .box {
     border: 2px hotpink; 
@@ -20,10 +23,39 @@ img {
     
 }
 body {
+    margin-top: 74px;
+    padding: 35px;
+    background-size: cover;
     background-color: lightyellow
+    
+}
+header li a {
+    color: goldenrod;
+    text-decoration: teal;
+    font-size: x-large;
+}
+header * {
+    display: inline;
 }
 h1 {
     color: goldenrod;
+}
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    color: slategray;
+}
+header li {
+    margin: 27px;
+    align-items: center;
+}
+header {
+    background-color: snow;
+    display: flex;
+    height: 74px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
 }
 
 
