@@ -3,8 +3,12 @@ img {
     height: 13cm;
     width: 11cm;
 }
+.column {
+    width: 331px;
+    float: left;
+  }
 .sidebar {
-    width: 30%;
+    width: 25%;
     float: right;
     background-color: grey;
 }
